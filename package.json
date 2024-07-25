@@ -1,0 +1,25 @@
+{
+  "name": "dragon_chicken_choumei",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoqisong0/dragon_chicken_choumei.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoqisong0/dragon_chicken_choumei/issues"
+  },
+  "homepage": "https://github.com/xiaoqisong0/dragon_chicken_choumei#readme",
+  "dependencies": {
+    "dragon_lucky_words": "^1.0.4",
+    "dragon_rain": "^1.0.7",
+    "jquery": "^3.7.1"
+  }
+}
